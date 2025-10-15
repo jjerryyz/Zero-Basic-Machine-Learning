@@ -4,8 +4,6 @@
 
 **机器学习是AI的分支技术，而深度学习是机器学习的技术之一**。从人工智能到机器学习，再到深度学习，它们之间是一种包含和被包含的关系，如下图所示。
 
-![fig01_人工智能、机器学习和深度学习关系](https://github.com/Vuean/Zero-Basic-Machine-Learning/blob/main/Class1/Figures/fig01_%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E3%80%81%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E5%92%8C%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E5%85%B3%E7%B3%BB.png)
-
 ![fig01_人工智能、机器学习和深度学习关系](./Figures/fig01_人工智能、机器学习和深度学习关系.png)
 
 造成目前AI火热的原因主要包括有：**数据支撑**、**硬件支撑**以及技术良好的**可达性**。
@@ -26,8 +24,6 @@
 
 机器学习常见分类方式为：**监督学习**（supervised learning）、**无监督学习**（unsupervised learning）和**半监督学习**（semi-supervised learning）。主要区别在于是否需要数据标签，监督学习的训练需要标签数据，而无监督学习不需要标签数据，半监督学习介于两者之间。
 
-![fig02_不同学习之间区别](https://github.com/Vuean/Zero-Basic-Machine-Learning/blob/main/Class1/Figures/fig02_%E4%B8%8D%E5%90%8C%E5%AD%A6%E4%B9%A0%E4%B9%8B%E9%97%B4%E5%8C%BA%E5%88%AB.jpg)
-
 ![fig02_不同学习之间区别](./Figures/fig02_不同学习之间区别.jpg)
 
 半监督学习是监督学习与无监督学习相结合的一种学习方式，当有时获取有标签数据成本过高时，半监督学习使用大量的无标签数据，同时使用部分有标签数据来进行建模。
@@ -39,8 +35,6 @@
 深度学习所采用的机器学习模型不同之处在于：**神经网络**。人工神经网络（Aetificial Neural Network, ANN），是数据结构和算法形成的机器学习模型。
 
 **通常将层数较多、结构比较复杂的神经网络的机器学习技术叫做深度学习。**
-
-![fig03_深度学习中的神经网络](https://github.com/Vuean/Zero-Basic-Machine-Learning/blob/main/Class1/Figures/fig03_%E6%B7%B1%E5%BA%A6%E5%AD%A6%E4%B9%A0%E4%B8%AD%E7%9A%84%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C.jpg)
 
 ![fig03_深度学习中的神经网络](./Figures/fig03_深度学习中的神经网络.jpg)
 
